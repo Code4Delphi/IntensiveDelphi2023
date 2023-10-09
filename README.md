@@ -3,6 +3,8 @@ Projeto criado durante minha palestra no Intensive Delphi 2023
 
 Tema: Criação de Wizards e Experts para o Delphi utilizando a OTA Open Tools API
 
+ <a href="https://www.youtube.com/watch?v=06Zqgt7v-T4" target="_blank"> Acessar vídeo da apresentação </a>
+
 Obs.: Foram adicionados alguns tratamentos ao código, para que não ocorram exceções caso não haja nenhum projeto selecionado.
 
 # 📞 Contatos
