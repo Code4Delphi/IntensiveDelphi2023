@@ -10,7 +10,7 @@ Obs.: Foram adicionados alguns tratamentos ao código, para que não ocorram exc
 # 📞 Contatos
 
 <p align="left">
-  <a href="https://t.me/Code4DelphiDevs" target="_blank">
+  <a href="https://t.me/Code4Delphi" target="_blank">
     <img src="https://img.shields.io/badge/Telegram:-Join%20Channel-blue?logo=telegram">
   </a> 
   &nbsp;
